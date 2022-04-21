@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vipulkaushik/static/css/main.c73e0707.chunk.css",
+    "main.js": "/vipulkaushik/static/js/main.39e43b50.chunk.js",
+    "main.js.map": "/vipulkaushik/static/js/main.39e43b50.chunk.js.map",
+    "runtime-main.js": "/vipulkaushik/static/js/runtime-main.077fe143.js",
+    "runtime-main.js.map": "/vipulkaushik/static/js/runtime-main.077fe143.js.map",
+    "static/css/2.31ff0196.chunk.css": "/vipulkaushik/static/css/2.31ff0196.chunk.css",
+    "static/js/2.41637bbf.chunk.js": "/vipulkaushik/static/js/2.41637bbf.chunk.js",
+    "static/js/2.41637bbf.chunk.js.map": "/vipulkaushik/static/js/2.41637bbf.chunk.js.map",
+    "static/js/3.9232ae11.chunk.js": "/vipulkaushik/static/js/3.9232ae11.chunk.js",
+    "static/js/3.9232ae11.chunk.js.map": "/vipulkaushik/static/js/3.9232ae11.chunk.js.map",
+    "index.html": "/vipulkaushik/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/vipulkaushik/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.c73e0707.chunk.css.map": "/vipulkaushik/static/css/main.c73e0707.chunk.css.map",
+    "static/js/2.41637bbf.chunk.js.LICENSE.txt": "/vipulkaushik/static/js/2.41637bbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.077fe143.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.41637bbf.chunk.js",
+    "static/css/main.c73e0707.chunk.css",
+    "static/js/main.39e43b50.chunk.js"
+  ]
+}
